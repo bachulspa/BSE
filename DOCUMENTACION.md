@@ -18,7 +18,7 @@ Documento de proceso: del encargo inicial al sitio publicado, con las imágenes 
 | `Prompt_Landing_Page_Bachul_Spa.docx` | Documento Word con las instrucciones de la página (negocio, sedes, servicios, tono y requisitos). |
 | 16 imágenes | Afiches y fotografías promocionales del negocio, con servicios, promociones, teléfonos y logotipo. |
 
-> **Nota:** el texto íntegro del Word no se reproduce aquí porque no quedó almacenado en el repositorio. Para dejarlo documentado, pegue su contenido en esta sección (ver 1.3).
+> El texto íntegro del Word se reproduce en la sección 1.3.
 
 ### 1.2 Instrucción dada en el chat
 
@@ -33,11 +33,127 @@ Requisitos que se desprenden de ella y del Word:
 3. Diseño cuidado, de estilo Apple: mucho espacio en blanco, tipografía grande, imágenes protagonistas, animaciones sutiles.
 4. Uso de habilidades de diseño y agentes de interfaz.
 
-### 1.3 Espacio para el prompt completo del Word
+### 1.3 Prompt completo del Word
 
-```text
-(Pegue aquí el contenido de Prompt_Landing_Page_Bachul_Spa.docx)
-```
+Texto íntegro de `Prompt_Landing_Page_Bachul_Spa.docx`, sin modificaciones:
+
+````text
+Prompt para la landing page de Bachúl Spa y Estética
+Actúa como diseñador web sénior, especialista en experiencia de usuario y desarrollador frontend. Crea una landing page impecable de una sola página para Bachúl Spa y Estética, un centro de belleza, bienestar y cuidado personal en Costa Rica, con sedes en Cartago y Paseo Colón, San José.
+El resultado debe ser una web funcional, elegante y visualmente cuidada, que transmita tranquilidad, confianza y atención personalizada. Su objetivo principal es generar consultas y solicitudes de cita.
+Toda la navegación debe llevar a secciones dentro de la misma página, sin crear páginas adicionales. Prioriza una portada atractiva, servicios organizados, fotografías reales, información de las dos sedes y botones de contacto visibles. Mantén el contenido breve, la carga rápida y una experiencia excelente en celulares.
+Información del negocio
+Nombre: Bachúl Spa y Estética.
+•	Cartago: +506 2552 1010.
+•	Paseo Colón, San José: +506 7237 3736.
+Instagram de Cartago: https://www.instagram.com/bachul_spa/
+Instagram de Paseo Colón: https://www.instagram.com/bachul_paseo_colon/
+Reels proporcionados como referencia:
+https://www.facebook.com/share/r/18Ui8a7wJk/
+https://www.facebook.com/share/r/1BsYQPG2Lp/
+Los datos anteriores fueron proporcionados por el solicitante. No presentes como verificada información adicional que no hayas podido consultar.
+Servicios del negocio
+Estética corporal y facial
+Liposonix; HIFU; lipoenzimas o lipólisis enzimática; microdermoabrasión; vapor de ozono; alta frecuencia; faciales personalizados; depilación.
+Masajes y bienestar
+Masajes descontracturantes; masajes reductivos; jacuzzi; sauna.
+Sala de belleza y uñas
+Manicure; pedicure; lifting de pestañas; microblading; tratamientos de restauración y brillo capilar.
+Cuidados especializados
+Tratamientos postquirúrgicos, sujetos a valoración y a las indicaciones del profesional tratante.
+Dirección visual
+Diseña una experiencia de spa boutique contemporáneo. Evita la apariencia de una plantilla genérica, la saturación de elementos y los efectos exagerados.
+Si las fotografías o el logotipo permiten identificar los colores de marca, úsalos como referencia principal. Si no existe una identidad verificable, utiliza esta propuesta:
+•	Marfil cálido como fondo.
+•	Arena y beige suave para superficies secundarias.
+•	Verde salvia como acento.
+•	Dorado tenue para detalles decorativos.
+•	Texto en un tono oscuro con contraste suficiente.
+Combina títulos con una tipografía serif elegante y textos con una sans serif muy legible. Usa espacios amplios, jerarquía clara, bordes sutiles y sombras discretas. Evita texto dorado claro sobre fondos blancos.
+La experiencia debe sentirse especialmente bien en celulares, con botones cómodos, navegación sencilla e imágenes que se adapten sin deformarse. Usa animaciones discretas únicamente cuando ayuden a orientar al visitante.
+Fotografías y videos
+Utiliza las fotografías reales adjuntas como material principal. Inspecciónalas antes de decidir cuáles corresponden a instalaciones, tratamientos, equipo o detalles del espacio.
+•	Selecciona la imagen de mejor calidad y composición para la portada.
+•	Preserva las proporciones y evita recortes que corten rostros o elementos importantes.
+•	No inventes instalaciones, personal, logotipos ni resultados de tratamientos.
+•	No utilices fotografías genéricas como si fueran del negocio.
+•	Si alguna imagen no está disponible, construye una alternativa visual elegante y comunica el archivo faltante fuera de la página pública. Nunca dejes imágenes rotas.
+•	No conviertas automáticamente todos los adjuntos en una galería: selecciona y ordena los que aporten valor.
+•	No supongas que una imagen pertenece a una sede si no está identificado.
+Integra los reels únicamente si es técnicamente posible y permite una buena experiencia. Como alternativa, presenta enlaces “Ver en Facebook”. No inventes miniaturas ni describas videos que no hayas podido consultar. Evita reproducción automática con sonido.
+Estructura de la landing page
+1 Encabezado
+Incluye el logotipo real si está disponible; en caso contrario, usa el nombre del negocio con un tratamiento tipográfico elegante.
+Navegación: Inicio · Servicios · Galería · Sedes · Contacto.
+Todos los elementos del menú deben enlazar a secciones de esta misma página. Agrega un botón destacado “Solicitar cita” que lleve al bloque de contacto. En celulares, utiliza un menú accesible y fácil de cerrar.
+2 Portada
+Crea una composición con una fotografía protagonista y texto breve.
+Título: “Un espacio para cuidarte y sentirte bien”.
+Descripción: “Descubrí nuestros servicios de belleza, estética y bienestar en Cartago y Paseo Colón.”
+Botón principal: “Solicitar cita”. Botón secundario: “Explorar servicios”.
+Si colocas texto sobre una imagen, asegura su legibilidad con un fondo o degradado discreto. La primera pantalla debe permitir comprender el negocio y encontrar la acción principal.
+3 Presentación
+Título: “Tu momento de bienestar empieza aquí”.
+Redacta un párrafo cálido que presente a Bachúl como un espacio de cuidado personal que reúne estética, relajación y belleza.
+No inventes años de experiencia, certificaciones, tecnología de última generación, acreditaciones ni credenciales profesionales.
+4 Servicios
+Organiza los servicios en las cuatro categorías indicadas. Utiliza tarjetas o bloques con descripciones breves, lenguaje claro e iconos consistentes.
+No presentes todos los servicios como una lista extensa sin jerarquía. Permite explorar cada categoría mediante pestañas o acordeones accesibles en móvil.
+Incluye un botón contextual “Consultar este servicio” que lleve al contacto con el servicio preseleccionado.
+No prometas resultados garantizados, pérdida de peso, curaciones ni ausencia de riesgos. Para tratamientos estéticos y postquirúrgicos, incluye de manera discreta: “La disponibilidad e idoneidad de cada tratamiento se confirman mediante valoración.”
+Aclara que la disponibilidad de servicios debe consultarse en cada sede.
+5 Galería
+Crea una galería editorial con las fotografías reales disponibles. Alterna tamaños con equilibrio y permite ampliarlas mediante un visor accesible.
+Incluye pies de foto únicamente cuando el contenido pueda identificarse con certeza. No atribuyas tratamientos, equipos o ubicaciones por suposición.
+6 Sedes
+Presenta dos tarjetas diferenciadas con los siguientes datos.
+Cartago
+•	Ubicación general: Cartago, Costa Rica.
+•	Teléfono: +506 2552 1010.
+•	Botón: “Llamar a Cartago”.
+•	Enlace de llamada: tel:+50625521010
+•	Instagram: https://www.instagram.com/bachul_spa/
+Paseo Colón
+•	Ubicación general: Paseo Colón, San José, Costa Rica.
+•	Teléfono: +506 7237 3736.
+•	Botón: “Llamar a Paseo Colón”.
+•	Enlace de llamada: tel:+50672373736
+•	Instagram: https://www.instagram.com/bachul_paseo_colon/
+No inventes direcciones exactas, horarios, coordenadas ni enlaces de Google Maps.
+El uso de WhatsApp no está confirmado. Deja esa integración preparada mediante configuración y actívala únicamente cuando se confirme cuál número utiliza el negocio para ese canal. No muestres botones de WhatsApp inactivos.
+7 Contacto y solicitud de cita
+Diseña un bloque sencillo que permita seleccionar sede y servicio de interés. Muestra la opción de contacto correspondiente a la sede elegida.
+Si existe una integración real de envío, puedes añadir nombre, medio de contacto y preferencia de fecha. No recolectes información médica sensible.
+Si no hay backend ni servicio de envío configurado, usa llamadas y canales verificados. Nunca simules el envío de un formulario ni muestres una confirmación de reserva ficticia.
+Distingue claramente una solicitud de una cita confirmada: “Las citas están sujetas a disponibilidad y confirmación del centro.”
+En móvil puedes incorporar un botón persistente “Solicitar cita”, siempre que no oculte contenido ni interfiera con la navegación.
+8 Pie de página
+Incluye el nombre del negocio, las sedes, los teléfonos, los enlaces de Instagram y el año actual.
+No añadas enlaces vacíos a políticas, páginas o redes sociales que no estén disponibles.
+Redacción y fidelidad de la información
+Escribe en español natural de Costa Rica, con voseo moderado: “Descubrí”, “Elegí”, “Consultá”.
+Mantén un tono cálido, profesional y claro. Evita frases grandilocuentes, presión comercial y referencias negativas al cuerpo.
+No inventes precios o promociones, testimonios o calificaciones, resultados antes y después, cantidad de clientes, nombres del personal, certificaciones, horarios ni disponibilidad de tratamientos por sede.
+Funcionamiento y calidad
+•	Diseño adaptable a celular, tableta y escritorio.
+•	HTML semántico y navegación por teclado.
+•	Contraste accesible, foco visible y textos alternativos.
+•	Menú, acordeones y visor de imágenes funcionales.
+•	Respeto por la preferencia de movimiento reducido.
+•	Imágenes optimizadas y carga diferida fuera de la portada.
+•	Sin desbordamientos horizontales.
+•	Sin botones decorativos que aparenten funcionar.
+•	Sin errores de consola ni recursos rotos.
+•	Enlaces externos configurados de forma segura.
+•	SEO local con datos reales, sin añadir información no confirmada.
+Título SEO sugerido: “Bachúl Spa y Estética | Cartago y Paseo Colón”.
+Descripción SEO sugerida: “Conocé los servicios de estética, belleza y bienestar de Bachúl Spa y Estética en Cartago y Paseo Colón. Consultá disponibilidad y solicitá tu cita.”
+Entrega y verificación
+Construye la landing page completa y entrega el código listo para ejecutar. Si no se especifica una tecnología, utiliza HTML, CSS y JavaScript.
+Incluye todos los recursos necesarios o explica claramente su ubicación. Si se solicita un único HTML, incorpora las imágenes disponibles para que se visualicen al abrirlo, sin depender de rutas locales de otro equipo.
+Antes de entregar, verifica la presentación en móvil y escritorio, las imágenes, la navegación, la selección del servicio y todos los enlaces de contacto. Comprueba que los enlaces del menú se desplazan a las secciones correctas y que el encabezado no oculta sus títulos.
+Indica fuera de la web qué datos quedan pendientes de confirmar. La página pública debe verse terminada, sin notas técnicas ni contenido ficticio.
+````
 
 ### 1.4 Peticiones posteriores (en orden)
 
